@@ -63,7 +63,7 @@ p {
 }
 
 .mensaje img {
-  max-width: 50%;
+  max-width: 70%;
   display: block;
   margin: 0 auto 10px; /* Ajusta el margen inferior para separar la imagen del texto */
 }
