@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-image: url('ruta/de/la/imagen.jpg');
+  background-size: cover; /* Para cubrir todo el área del encabezado */
+  background-position: center; /* Para centrar la imagen */
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.oferta {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.countdown {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.tiempo {
+  display: inline-block;
+}
+
+.separador {
+  margin: 0 5px;
+}
+
+.btn-comprar {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.testimonios {
+  padding: 20px;
+}
+
+.testimonio {
+  background-color: #fff;
