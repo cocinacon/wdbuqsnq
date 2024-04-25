@@ -6,10 +6,10 @@ body {
 }
 
 header {
-  background-image: url('ruta/de/la/imagen.jpg');
+  background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/SVBU5XI3MJFPHMTFBJHG2IBML4.jpg');
   background-size: cover; /* Para cubrir todo el área del encabezado */
   background-position: center; /* Para centrar la imagen */
-  color: #fff;
+  color: #ff;
   text-align: center;
   padding: 20px 0;
 }
@@ -55,6 +55,19 @@ p {
 .testimonios {
   padding: 20px;
 }
+
+.testimonio {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.mensaje img {
+  max-width: 50%;
+  display: block;
+  margin: 0 auto 10px; /* Ajusta el margen inferior para separar la imagen del texto */
+}
+
 
 .testimonio {
   background-color: #fff;
